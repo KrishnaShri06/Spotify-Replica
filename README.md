@@ -8,5 +8,6 @@ HTML5
 CSS3 (Flexbox, Custom Styles)
 Font Awesome
 Google Fonts (Montserrat)
+<br>
 📬 Contact
 Feel free to reach out if you have feedback or want to collaborate!
